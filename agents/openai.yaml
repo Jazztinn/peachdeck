@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peachdeck"
+  short_description: "Create investor-grade pitch decks"
+  default_prompt: "Use $peachdeck to create a concise, investor-grade pitch deck for my startup."
